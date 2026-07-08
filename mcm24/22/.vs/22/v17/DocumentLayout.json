@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Python\\22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF14547A-9F7D-4259-A277-C23B7914D46B}|22.pyproj|F:\\Python\\22\\_22.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF14547A-9F7D-4259-A277-C23B7914D46B}|22.pyproj|solutionrelative:_22.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_22.py",
+              "DocumentMoniker": "F:\\Python\\22\\_22.py",
+              "RelativeDocumentMoniker": "_22.py",
+              "ToolTip": "F:\\Python\\22\\_22.py",
+              "RelativeToolTip": "_22.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMWSURBVDhPrVRLTBNRFD0zneEzhYIg3woES1BrQ\u002BKHWKKIv2iEDQvQSExYkKgsWNWFG8PCNWsS0bhyw8IEF5qwbIouKsE0UEDBiBRUaIGWtkPbNx3vDCOEDIkbT3Lz7pt333nn3nff4L9BVVXOcHV0dXVNu91upzE1IZvNqgsLC58CgcADv98fUBRFNZZ0CMa4h/7\u002BfsMzI5VKYWRk5LTdbn8mCMITn88XNJZ0mMjS6TTm5uaM2T4cDgdEUeSIKL\u002B5ubktFos9lySpd3x8fNEIAW\u002BMe8jJyUFTU5PJrFarvk6pcTabrbCvr89VX1//gspSpi8QTGQUjLW1NZNlMhnwPK\u002BTTkxMIBgM2oqLi/NoS8XuzkPIOI6DxWI5YFQffWScgObWG2i5chPtHR2oqan5bWzTYaqZdnppaakx20WaKXjpW8bHxTCSyR0wquvRQgGPLl4\u002BNTo6uifIpExLZ2Zm5oB9\u002BfELclrB/ZY6xJMy4vIOFlY24P8eK2psbNxL06SMbgxOp1PrQfCU2lJERmhDRjQRxbupTVQU5iK0LkNhGWTVdEHnbWevvXKgAZaSVyYyTdn8/LzuJ6zH8PrDEhJymr6nyBh2SBWjGIV8gU9K7ZdiPe1tzk6UPJRMaWrKXC6Xbm8mV7Ac2cZ6NI5wNInN7QS2k0m6cQYODI6yDJ0eoVMnJWR\u002BDhzaGpFIRLdQOIas1hJqFudqge6zDHcv8Ljn5uFpz8OthmnasA2wON3Saq0pTQ0aoQZbjgVbMQZXtQjP9RCqpFXtQZMxCorS\u002B0rSg5WJjMxiS5iUaf1UXl6u2zVXpa6s2pZFkUjpqLRZ2aLUwkRAZAopypBZqJVyj48degGzs7O6f4L6\u002B2n3eRTnRSEKU0RAZKpIPdBA3U0K\u002BSMMYtUaJNfqTHDu8aGtob3Fv9BehABRFTZTVHNSoWgpaURFpKZyc/Kb3eP1jr33eDwxE9nw8LDh7cN50rF19UydlMtmc8ESpJBql18EpaA14fW\u002B/aoRGaH/xuDgIEdNfEfNRANq/DNT5cWwmmV\u002B\u002BtYzNDRk/EyBP1NYbaev27YdAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-23T03:36:02.414Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
